@@ -133,7 +133,7 @@ I care about the full path from idea to product: turning LLM capabilities into r
 
 ## 🧠 Engineering Strengths
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <h3>🤖 LLM Productization</h3>
@@ -212,9 +212,6 @@ I care about the full path from idea to product: turning LLM capabilities into r
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dh-atomheart&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dh-atomheart&layout=compact&theme=tokyonight&hide_border=true" />
 
   <br />
 
