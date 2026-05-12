@@ -9,9 +9,6 @@
 
   <br /><br />
 
-  <a href="https://github.com/Dh-atomheart">
-    <img src="https://img.shields.io/badge/GitHub-Dh--atomheart-181717?style=for-the-badge&logo=github" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Dh-atomheart&style=for-the-badge&color=0ea5e9" />
   <img src="https://img.shields.io/badge/Open%20to-AI%20Application%20Developer-22c55e?style=for-the-badge" />
 
@@ -101,10 +98,6 @@ I care about the full path from idea to product: turning LLM capabilities into r
 
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=Dh-atomheart&theme=tokyonight&hide_border=true" />
-
-  <br />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dh-atomheart&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
@@ -136,7 +129,6 @@ I care about the full path from idea to product: turning LLM capabilities into r
 
 </div>
 
----
 
 <div align="center">
 
