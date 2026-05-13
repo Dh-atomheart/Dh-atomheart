@@ -9,6 +9,12 @@
 
   <br /><br />
 
+    
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,vue,vite,electron,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,github,git,docker" />
+
+
   <img src="https://komarev.com/ghpvc/?username=Dh-atomheart&style=for-the-badge&color=0ea5e9" />
   <img src="https://img.shields.io/badge/Open%20to-AI%20Application%20Developer-22c55e?style=for-the-badge" />
 
@@ -24,53 +30,13 @@ I care about the full path from idea to product: turning LLM capabilities into r
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎬 LLM-Manim</h3>
-      <p>
-        <b>AI-powered desktop app for generating educational animations.</b>
-      </p>
-      <p>
-        It uses LLMs to generate Manim Community Edition code, performs static checks, renders MP4 locally, and stores workspaces, providers, generation tasks, artifacts, and logs with SQLite.
-      </p>
-      <p>
-        <b>Tech:</b> Tauri 2 · React 19 · TypeScript · Rust · SQLite · Python · Manim · FFmpeg · LaTeX · Vitest · Playwright
-      </p>
-      <a href="https://github.com/Dh-atomheart/llm-manim">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dh-atomheart&repo=llm-manim&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📚 XueJian</h3>
-      <p>
-        <b>Local-first desktop learning system.</b>
-      </p>
-      <p>
-        Designed around a complete learning loop: material import → reading & processing → card generation → spaced repetition → knowledge QA / graph → podcast generation.
-      </p>
-      <p>
-        <b>Tech:</b> React · TypeScript · Tauri · Rust · Python · TanStack Query · Zustand · Local-first Architecture
-      </p>
-      <a href="https://github.com/Dh-atomheart/XueJian">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dh-atomheart&repo=XueJian&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
- 
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,html,css" />
 
 ### Frontend & App Development
 
