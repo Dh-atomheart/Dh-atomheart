@@ -9,11 +9,11 @@
 
   <br /><br />
 
-    
+  <div align="center">  
   <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,html,css" />
   <img src="https://skillicons.dev/icons?i=react,vue,vite,electron,nodejs,npm" />
   <img src="https://skillicons.dev/icons?i=cloudflare,github,git,docker" />
-
+  </div>
 
   <img src="https://komarev.com/ghpvc/?username=Dh-atomheart&style=for-the-badge&color=0ea5e9" />
   <img src="https://img.shields.io/badge/Open%20to-AI%20Application%20Developer-22c55e?style=for-the-badge" />
