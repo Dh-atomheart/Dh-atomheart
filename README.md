@@ -32,25 +32,6 @@ I care about the full path from idea to product: turning LLM capabilities into r
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,html,css" />
-
-### Frontend & App Development
-
-<img src="https://skillicons.dev/icons?i=react,vue,vite,electron,nodejs,npm" />
-
-### Cloud, Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=cloudflare,github,git,docker" />
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
