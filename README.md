@@ -24,15 +24,6 @@ I care about the full path from idea to product: turning LLM capabilities into r
 </picture>
 </div>
 
-<div align="center">
-
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dh-atomheart&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
 ## 📫 Contact
 
 <div align="center">
