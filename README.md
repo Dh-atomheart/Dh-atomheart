@@ -37,14 +37,3 @@ I care about the full path from idea to product: turning LLM capabilities into r
 </a>
 
 </div>
-
-
-<div align="center">
-
-  <sub>
-    I believe the best AI products are not only powerful, but also understandable, reliable, and pleasant to use.
-  </sub>
-
-  <br /><br />
-
-</div>
